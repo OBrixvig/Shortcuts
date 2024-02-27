@@ -13,8 +13,8 @@ namespace Shortcuts
         private string _description;
 
         //propfull + tap + tap laver en get set
-       
-       //ctor + tap + tap laver en constructor for klasse den er i
 
+        //ctor + tap laver en constructor for klasse den er i
+        
     }
 }
