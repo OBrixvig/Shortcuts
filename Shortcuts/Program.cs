@@ -6,12 +6,16 @@ namespace Shortcuts
     {
         static void Main(string[] args)
         {
-            //cw + tap + tap laver en Console.WriteLine();
+            //Ctrl + E,D
+
+            //cw + tap, tap laver en Console.WriteLine();
            
-            //if + tap + tap laver en if statement
+            //if + tap, tap laver en if statement
           
-            //else + tap + tap laver en else statement
+            //else + tap, tap laver en else statement
             
+            //Alt + shift brug piltasterne
+
             //gå ind i Shortcut class
         }
     }
